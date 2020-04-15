@@ -5,7 +5,9 @@ Design and Simulation of an Angular Spatial Repetitive Controller for an Active 
 
 ## Cite this Work
 
-This work was not published online. A physical copy exists in the main library of the campus of Universidad Nacional de Colombia. 
+This work was not published online. The `.pdf` of the thesis document is available among the files of this repository. A physical copy exists in the main library of the campus of Universidad Nacional de Colombia. 
+
+If you find any of these ideas useful, please give some credit to the authors by citing:
 
 > Dorado-Rojas, Sergio A., Galarza-Jiménez, Felipe. Ramos, G. A. Design and Simulation of an Angular Spatial Repetitive Controller for an Active Power Filter Application. Universidad Nacional de Colombia. 2016.
 

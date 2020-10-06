@@ -1,6 +1,9 @@
 Design and Simulation of an Angular Spatial Repetitive Controller for an Active Power Filter Application
 ================
 
+[![DOI](https://zenodo.org/badge/219610336.svg)](https://zenodo.org/badge/latestdoi/219610336)
+
+
 **Authors:** Sergio A. Dorado-Rojas (sergio.dorado.rojas@gmail.com), Felipe Galarza-Jiménez (felipegalarzajimenez@gmail.com), Germán A. Ramos (garamosf@unal.edu.co)
 
 ## Cite this Work
